@@ -1,5 +1,5 @@
 
-# PortfolioME
+# CRUD Operation
 
 This project is a simple CRUD application that allows users to manage a list of products. The data is stored locally using the browser's LocalStorage feature, enabling persistent storage even after page refresh.
 
